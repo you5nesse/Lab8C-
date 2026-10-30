@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1793359400 source:c:\users\pc\documents\sql_lab1\exercice8.1\casquebt.cpp
+	"CasqueBT.h"
+
+1793359352 c:\users\pc\documents\sql_lab1\exercice8.1\casquebt.h
+	<SortieAudio.h>
+
+1793359323 c:\users\pc\documents\sql_lab1\exercice8.1\\sortieaudio.h
+	<iostream>
+	<string>
+
+1793359400 source:c:\users\pc\documents\sql_lab1\exercice8.1\hautparleur.cpp
+	"HautParleur.h"
+
+1793359374 c:\users\pc\documents\sql_lab1\exercice8.1\hautparleur.h
+	<SortieAudio.h>
+
+1793359400 source:c:\users\pc\documents\sql_lab1\exercice8.1\sortieaudio.cpp
+	"SortieAudio.h"
+
+1793359323 c:\users\pc\documents\sql_lab1\exercice8.1\sortieaudio.h
+	<iostream>
+	<string>
+
+1793359400 source:c:\users\pc\documents\sql_lab1\exercice8.1\sortiehdmi.cpp
+	"SortieHDMI.h"
+
+1793359374 c:\users\pc\documents\sql_lab1\exercice8.1\sortiehdmi.h
+	<SortieAudio.h>
+

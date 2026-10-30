@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1740933562 source:c:\users\pc\documents\sql_lab1\exercice8.2\main.cpp
+	<iostream>
+
+1793360463 source:c:\users\pc\documents\sql_lab1\exercice8.2\lumiere.cpp
+	"Lumiere.h"
+
+1793360384 c:\users\pc\documents\sql_lab1\exercice8.2\lumiere.h
+	<cmath>
+
+1793360462 source:c:\users\pc\documents\sql_lab1\exercice8.2\lumieredirectionnelle.cpp
+	"LumiereDirectionnelle.h"
+
+1793360416 c:\users\pc\documents\sql_lab1\exercice8.2\lumieredirectionnelle.h
+	"Lumiere.h"
+
+1793360462 source:c:\users\pc\documents\sql_lab1\exercice8.2\lumiereponctuelle.cpp
+	"LumierePonctuelle.h"
+
+1793360432 c:\users\pc\documents\sql_lab1\exercice8.2\lumiereponctuelle.h
+	"Lumiere.h"
+
+1793360462 source:c:\users\pc\documents\sql_lab1\exercice8.2\lumierespot.cpp
+	"LumiereSpot.h"
+
+1793360384 c:\users\pc\documents\sql_lab1\exercice8.2\lumierespot.h
+	"Lumiere.h"
+

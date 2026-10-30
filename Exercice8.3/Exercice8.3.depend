@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1793360854 source:c:\users\pc\documents\sql_lab1\exercice8.3\analyseurstyle.cpp
+	"AnalyseurStyle.h"
+
+1793360854 c:\users\pc\documents\sql_lab1\exercice8.3\analyseurstyle.h
+	"Plugin.h"
+
+1793360854 c:\users\pc\documents\sql_lab1\exercice8.3\plugin.h
+	<string>
+	<memory>
+
+1793360854 source:c:\users\pc\documents\sql_lab1\exercice8.3\correcteurorthographique.cpp
+	"CorrecteurOrthographique.h"
+
+1793360854 c:\users\pc\documents\sql_lab1\exercice8.3\correcteurorthographique.h
+	"Plugin.h"
+
+1793360854 source:c:\users\pc\documents\sql_lab1\exercice8.3\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+	"Plugin.h"
+
+1793360854 source:c:\users\pc\documents\sql_lab1\exercice8.3\traducteuranglais.cpp
+	"TraducteurAnglais.h"
+
+1793360854 c:\users\pc\documents\sql_lab1\exercice8.3\traducteuranglais.h
+	"Plugin.h"
+
+1793360879 source:c:\users\pc\documents\sql_lab1\exercice8.3\plugin.cpp
+	"Plugin.h"
+	"CorrecteurOrthographique.h"
+	"TraducteurAnglais.h"
+	"AnalyseurStyle.h"
+
