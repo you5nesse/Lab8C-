@@ -3,10 +3,9 @@
 #include <iostream>
 #include <string>
 
-// 1. La classe abstraite demandée
 class SortieAudio {
 public:
-    virtual ~SortieAudio() {} // destructeur virtuel obligatoire
+    virtual ~SortieAudio() {} 
 
     virtual void ouvrir() = 0;
     virtual void jouer(const std::string& son) = 0;
