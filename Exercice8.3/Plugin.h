@@ -12,7 +12,6 @@ public:
     virtual std::string nom() const = 0;
     virtual std::string traiter(const std::string& texte) = 0;
 
-    // Factory demandée
     static std::unique_ptr<Plugin> creerPlugin(const std::string& type);
 };
 
