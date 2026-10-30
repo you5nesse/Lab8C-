@@ -22,7 +22,7 @@ public:
                 motsCourants = 0;
             }
         }
-        // derniere phrase sans point
+        
         if(motsCourants>0){
             nbMots++;
             if(motsCourants>20) phrasesLongues++;
